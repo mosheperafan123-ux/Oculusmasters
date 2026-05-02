@@ -1,0 +1,5 @@
+.agents/
+.git/
+skills-lock.json
+catalogo_vr_resumen.json
+convert.ps1

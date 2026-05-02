@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oculus Masters | El Catálogo VR Definitivo</title>
+    <meta name="description" content="Accede a miles de juegos de Realidad Virtual. Deja de comprar uno por uno, obtén la librería definitiva.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Subtle Texture Overlay -->
+    <div class="noise-overlay"></div>
+
+    <!-- Nav Island -->
+    <nav class="nav-island">
+        <span style="font-family: var(--font-heading); font-weight: 800; font-size: 1.25rem; letter-spacing: 0.05em; color: #FFF; text-transform: uppercase;">OCULUS MASTERS</span>
+        
+        <div class="nav-actions" style="display: flex; align-items: center; gap: 0.5rem;">
+            <a href="#contacto" class="btn btn-secondary nav-btn" style="padding: 0.5rem 0.5rem 0.5rem 1rem; font-size: 0.875rem;">
+                <span class="nav-btn-text">Contactar</span>
+                <div class="icon-wrapper" style="width: 2rem; height: 2rem;">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </div>
+            </a>
+            <button class="hamburger-btn" id="mobile-menu-btn" aria-label="Abrir menú">
+                <div class="hamburger-lines">
+                    <span class="line line-top"></span>
+                    <span class="line line-middle"></span>
+                    <span class="line line-bottom"></span>
+                </div>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Mobile Menu Overlay -->
+    <div class="mobile-menu-overlay" id="mobile-menu">
+        <a href="#inicio" class="mobile-link">Inicio</a>
+        <a href="#catalogo" class="mobile-link">Catálogo</a>
+        <a href="#proceso" class="mobile-link">Paso a Paso</a>
+        <a href="#testimonios" class="mobile-link">Testimonios</a>
+        <a href="#nosotros" class="mobile-link">Nosotros</a>
+        <a href="#faq" class="mobile-link">Preguntas</a>
+        <a href="#contacto" class="mobile-link" style="color: var(--accent-cyan);">Contactar →</a>
+    </div>
+
+    <!-- Hero Section -->
+    <header class="hero container" id="inicio">
+        <div class="reveal">
+            <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem; margin-bottom: 1.5rem;" class="hero-promo-container">
+                <div style="display: inline-flex; align-items: center; gap: 0.5rem; background: rgba(138, 43, 226, 0.1); border: 1px solid rgba(138, 43, 226, 0.3); padding: 0.5rem 1.25rem; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;">
+                    <span style="display: inline-block; width: 6px; height: 6px; background: var(--accent-cyan); border-radius: 50%; box-shadow: 0 0 10px var(--accent-cyan);"></span>
+                    Oferta de Temporada: 50% OFF
+                </div>
+                <span class="eyebrow" style="margin-bottom: 0;">[ LA LIBRERÍA DEFINITIVA ]</span>
+            </div>
+            <h1 class="hero-title">Miles de juegos.<br>Un solo pago.</h1>
+            <p class="hero-subtitle">Deja de comprar juegos de VR uno por uno. Accede al catálogo más completo de Colombia por una fracción del costo. Pago único, sin suscripciones.</p>
+            <a href="#contacto" class="btn">
+                <span>Acceder al Catálogo</span>
+                <div class="icon-wrapper">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </div>
+            </a>
+        </div>
+        
+        <div class="stats-grid reveal delay-200" id="global-stats">
+            <!-- Injected via JS -->
+            <div class="stat-item">
+                <div class="stat-value">...</div>
+                <div class="stat-label">Juegos Premium</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" style="text-decoration: line-through; color: var(--text-secondary); font-size: 1.5rem;">Normal: $400.000 COP</div>
+                <div class="stat-value" style="color: var(--accent-purple);">$200.000 COP</div>
+                <div class="stat-label">Pago Único (Cero Mensualidades)</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">∞</div>
+                <div class="stat-label">Horas de Diversión</div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Top 15 Marquee -->
+    <section class="marquee-section reveal">
+        <div class="container" style="margin-bottom: 2rem; text-align: center;">
+            <span class="eyebrow">[ LOS MÁS ACLAMADOS ]</span>
+            <h2 style="font-size: 2.5rem;">El Salón de la Fama VR</h2>
+        </div>
+        <div class="marquee-wrapper">
+            <div class="marquee-track" id="marquee-track">
+                <!-- Injected via JS -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Section Divider -->
+    <div class="section-divider"></div>
+
+    <!-- The Vault (Category List) -->
+    <section class="section container" id="catalogo">
+        <div class="reveal" style="margin-bottom: 4rem;">
+            <span class="eyebrow">[ EL CATÁLOGO ]</span>
+            <h2 style="font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 1rem;">Explora el Arsenal</h2>
+            <p style="color: rgba(255,255,255,0.5); max-width: 500px;">Cada categoría incluye decenas de títulos premium listos para instalar en tu visor.</p>
+        </div>
+
+        <div class="bento-grid" id="category-list">
+            <!-- Categories injected via JS -->
+        </div>
+    </section>
+
+    <!-- Section Divider -->
+    <div class="section-divider"></div>
+
+    <!-- How it works -->
+    <section class="section container" id="proceso">
+        <div class="glass-panel-outer reveal">
+            <div class="glass-panel-inner" style="align-items: center; text-align: center; padding: clamp(3rem, 5vw, 6rem) clamp(1.5rem, 3vw, 4rem);">
+                <span class="eyebrow">[ SERVICIO CONCIERGE ]</span>
+                <h2 style="font-size: clamp(2rem, 5vw, 3.5rem); margin-bottom: 1.5rem; line-height: 1.1;">Tu visor, en su máximo potencial.</h2>
+                <p style="color: rgba(255,255,255,0.6); max-width: 700px; margin-bottom: 3rem; font-size: clamp(1rem, 2vw, 1.25rem);">
+                    Pagar $30 USD por una experiencia de 2 horas no tiene sentido. Desbloqueamos tu dispositivo de forma remota, 100% segura y garantizada. Tú solo te preocupas por jugar.
+                </p>
+                
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; width: 100%; text-align: left; margin-bottom: 2rem;">
+                    <div class="hover-glow" style="background: rgba(255,255,255,0.02); padding: 2rem; border-radius: 1.5rem; border: 1px solid rgba(255,255,255,0.05); transition: background 0.3s ease, transform 0.3s ease;">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--accent-cyan)" stroke-width="1.5" style="margin-bottom: 1rem;"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+                        <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem; color: #FFF;">1. Reserva tu cupo</h3>
+                        <p style="color: rgba(255,255,255,0.5); font-size: 0.9rem; line-height: 1.6;">Contáctanos por WhatsApp. Asignamos un técnico experto a tu caso y agendamos tu configuración inmediata.</p>
+                    </div>
+                    <div class="hover-glow" style="background: rgba(255,255,255,0.02); padding: 2rem; border-radius: 1.5rem; border: 1px solid rgba(255,255,255,0.05); transition: background 0.3s ease, transform 0.3s ease;">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--accent-purple)" stroke-width="1.5" style="margin-bottom: 1rem;"><path d="m18 16 4-4-4-4"/><path d="m6 8-4 4 4 4"/><path d="m14.5 4-5 16"/></svg>
+                        <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem; color: #FFF;">2. Configuración Remota</h3>
+                        <p style="color: rgba(255,255,255,0.5); font-size: 0.9rem; line-height: 1.6;">Conectas el visor a tu PC y nosotros hacemos el resto. Proceso blindado, sin riesgos de baneo ni pérdida de garantía.</p>
+                    </div>
+                    <div class="hover-glow" style="background: rgba(255,255,255,0.02); padding: 2rem; border-radius: 1.5rem; border: 1px solid rgba(255,255,255,0.05); transition: background 0.3s ease, transform 0.3s ease;">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#FFF" stroke-width="1.5" style="margin-bottom: 1rem;"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                        <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem; color: #FFF;">3. Acceso Ilimitado</h3>
+                        <p style="color: rgba(255,255,255,0.5); font-size: 0.9rem; line-height: 1.6;">Ponte el visor y disfruta instantáneamente de miles de títulos AAA. Sin cuotas mensuales, pago único de por vida.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <!-- Section Divider -->
+    <div class="section-divider"></div>
+
+    <section class="section container" id="testimonios">
+        <div class="reveal" style="margin-bottom: 4rem;">
+            <span class="eyebrow">[ TESTIMONIOS ]</span>
+            <h2 style="font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 1rem;">Lo que dicen nuestros clientes</h2>
+            <p style="color: rgba(255,255,255,0.5); max-width: 500px;">Más de 1,200 visores desbloqueados en todo el país. Estas son sus palabras.</p>
+        </div>
+        <div class="testimonials-grid">
+            <!-- WA Bubble 1 -->
+            <div class="wa-bubble reveal delay-100">
+                <div class="wa-header">
+                    <div class="wa-avatar">A</div>
+                    <div>
+                        <div class="wa-name">Andrés M.</div>
+                        <div class="wa-status">En línea</div>
+                    </div>
+                </div>
+                <div class="wa-body">
+                    <p>Parce, qué locura total. Me ahorré como 4 millones en juegos y todo funciona nativo en mis Quest 2. El Resident Evil está brutal. Mil gracias bro! 🔥</p>
+                    <div class="wa-time">10:42 AM <span class="wa-ticks">✓✓</span></div>
+                </div>
+            </div>
+            <!-- WA Bubble 2 -->
+            <div class="wa-bubble reveal delay-200">
+                <div class="wa-header">
+                    <div class="wa-avatar" style="background: var(--accent-cyan); color: #000;">C</div>
+                    <div>
+                        <div class="wa-name">Camilo R.</div>
+                        <div class="wa-status">En línea</div>
+                    </div>
+                </div>
+                <div class="wa-body">
+                    <p>Hermano, excelente servicio. Pensé que me iban a banear o algo pero todo es 100% seguro. Ya estoy jugando Beat Saber con mis amigos. Recomendadísimos.</p>
+                    <div class="wa-time">02:15 PM <span class="wa-ticks">✓✓</span></div>
+                </div>
+            </div>
+            <!-- WA Bubble 3 -->
+            <div class="wa-bubble reveal delay-300">
+                <div class="wa-header">
+                    <div class="wa-avatar" style="background: #FF007F;">S</div>
+                    <div>
+                        <div class="wa-name">Santiago P.</div>
+                        <div class="wa-status">En línea</div>
+                    </div>
+                </div>
+                <div class="wa-body">
+                    <p>La instalación remota fue rapidísima. No tuve que hacer casi nada y ya tenía el catálogo entero. Vale cada centavo de las $200 lucas.</p>
+                    <div class="wa-time">06:30 PM <span class="wa-ticks">✓✓</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Our Impact Stats -->
+    <section class="section container" style="padding-top: 2rem; padding-bottom: 6rem;">
+        <div class="glass-panel-outer reveal">
+            <div class="glass-panel-inner" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; text-align: center; padding: 3rem;">
+                <div>
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--accent-cyan)" stroke-width="1.5" style="margin-bottom: 1rem; margin-left: auto; margin-right: auto;"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                    <div style="font-family: var(--font-heading); font-size: 3rem; color: var(--accent-cyan); margin-bottom: 0.5rem; line-height: 1;">+1,200</div>
+                    <div style="color: #FFF; font-weight: 500;">Visores Desbloqueados</div>
+                    <div style="font-size: 0.85rem; color: rgba(255,255,255,0.5); margin-top: 0.5rem;">En toda Colombia</div>
+                </div>
+                <div>
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--accent-purple)" stroke-width="1.5" style="margin-bottom: 1rem; margin-left: auto; margin-right: auto;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                    <div style="font-family: var(--font-heading); font-size: 3rem; color: var(--accent-purple); margin-bottom: 0.5rem; line-height: 1;">100%</div>
+                    <div style="color: #FFF; font-weight: 500;">Instalaciones Seguras</div>
+                    <div style="font-size: 0.85rem; color: rgba(255,255,255,0.5); margin-top: 0.5rem;">Cero reportes de baneo</div>
+                </div>
+                <div>
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#FFF" stroke-width="1.5" style="margin-bottom: 1rem; margin-left: auto; margin-right: auto;"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                    <div style="font-family: var(--font-heading); font-size: 3rem; color: #FFF; margin-bottom: 0.5rem; line-height: 1;">24/7</div>
+                    <div style="color: #FFF; font-weight: 500;">Soporte VIP</div>
+                    <div style="font-size: 0.85rem; color: rgba(255,255,255,0.5); margin-top: 0.5rem;">Acompañamiento constante</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section Divider -->
+    <div class="section-divider"></div>
+
+    <!-- About Us -->
+    <section class="section container" id="nosotros" style="padding-bottom: 6rem;">
+        <div class="glass-panel-outer reveal delay-100">
+            <div class="glass-panel-inner" style="padding: clamp(2rem, 5vw, 4rem); display: flex; flex-direction: column; gap: 1rem; align-items: flex-start; text-align: left; border-top: 4px solid var(--accent-purple);">
+                <span class="eyebrow">[ SOBRE NOSOTROS ]</span>
+                <h2 style="font-size: clamp(1.5rem, 4vw, 2.5rem); margin-bottom: 0.5rem;">Expertos VR en Colombia</h2>
+                <p style="color: rgba(255,255,255,0.5); max-width: 700px; font-size: 1.1rem; line-height: 1.6;">Somos un equipo de técnicos y entusiastas radicados en Colombia. Nuestra misión nació de una frustración real: los juegos de Realidad Virtual cuestan entre $30 y $60 USD cada uno. Eso significa que llenar un visor con 20 juegos cuesta más que el visor mismo. Oculus Masters existe para que tu inversión en hardware rinda al máximo desde el primer día.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section Divider -->
+    <div class="section-divider"></div>
+
+    <!-- Comparative Table -->
+    <section class="section container" id="comparativa" style="padding-bottom: 6rem;">
+        <div class="reveal" style="margin-bottom: 4rem; text-align: center;">
+            <span class="eyebrow">[ LA REALIDAD ]</span>
+            <h2 style="font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 1rem;">No pagues $30 USD por cada juego</h2>
+            <p style="color: rgba(255,255,255,0.5); max-width: 600px; margin: 0 auto;">El modelo tradicional está diseñado para vaciar tu billetera. Nosotros desbloqueamos el potencial real de tu hardware por una fracción del costo.</p>
+        </div>
+        
+        <div class="bento-grid reveal delay-100">
+            <!-- Meta Store Card -->
+            <div class="bento-item col-span-6" style="background: rgba(255,0,0,0.03); border: 1px solid rgba(255,0,0,0.1); border-radius: 2rem; padding: 3rem; display: flex; flex-direction: column; gap: 1.5rem;">
+                <div style="font-family: var(--font-heading); font-size: 1.5rem; color: rgba(255,255,255,0.7);">Tienda Oficial (Meta)</div>
+                <div style="font-size: 3rem; font-family: var(--font-heading); color: #FFF; line-height: 1;">$800 USD<span style="font-size: 1rem; color: rgba(255,255,255,0.5); display: block;">Aprox. $3.200.000 COP</span></div>
+                <div style="height: 1px; background: rgba(255,255,255,0.1); margin: 1rem 0;"></div>
+                <ul style="list-style: none; display: flex; flex-direction: column; gap: 1rem; color: rgba(255,255,255,0.6);">
+                    <li style="display: flex; gap: 1rem; align-items: center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FF4444" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Te alcanza para unos 20 juegos promedio</li>
+                    <li style="display: flex; gap: 1rem; align-items: center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FF4444" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Pagas cada vez que sale algo nuevo</li>
+                    <li style="display: flex; gap: 1rem; align-items: center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#FF4444" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg> Estás atado a su ecosistema cerrado</li>
+                </ul>
+            </div>
+            
+            <!-- Oculus Masters Card -->
+            <div class="bento-item col-span-6 glass-panel-outer" style="background: linear-gradient(135deg, rgba(138,43,226,0.1), rgba(0,255,255,0.05)); border-color: var(--accent-purple); transform: scale(1.02); position: relative; z-index: 10;">
+                <div class="glass-panel-inner" style="padding: 3rem; background: rgba(10,10,10,0.8); height: 100%;">
+                    <div style="position: absolute; top: -12px; right: 2rem; background: var(--accent-purple); color: #FFF; font-size: 0.75rem; font-weight: 700; padding: 0.25rem 1rem; border-radius: 9999px; text-transform: uppercase; letter-spacing: 0.1em; box-shadow: 0 0 20px rgba(138,43,226,0.5);">La Solución Inteligente</div>
+                    <div style="font-family: var(--font-heading); font-size: 1.5rem; color: var(--accent-cyan);">Oculus Masters</div>
+                    <div style="font-size: 3.5rem; font-family: var(--font-heading); color: #FFF; line-height: 1;">$200.000<span style="font-size: 1rem; color: var(--accent-purple); display: block;">COP - Pago Único</span></div>
+                    <div style="height: 1px; background: rgba(255,255,255,0.1); margin: 1rem 0;"></div>
+                    <ul style="list-style: none; display: flex; flex-direction: column; gap: 1rem; color: rgba(255,255,255,0.8);">
+                        <li style="display: flex; gap: 1rem; align-items: center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-cyan)" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Catálogo entero desbloqueado (+2,000 juegos)</li>
+                        <li style="display: flex; gap: 1rem; align-items: center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-cyan)" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Cero pagos mensuales, acceso ilimitado</li>
+                        <li style="display: flex; gap: 1rem; align-items: center;"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-cyan)" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Nuevos lanzamientos disponibles sin costo extra</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section Divider -->
+    <div class="section-divider"></div>
+
+    <!-- FAQ -->
+    <section class="section container" id="faq">
+        <div class="reveal" style="margin-bottom: 4rem;">
+            <span class="eyebrow">[ PREGUNTAS FRECUENTES ]</span>
+            <h2 style="font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 1rem;">Resolvemos tus dudas</h2>
+            <p style="color: rgba(255,255,255,0.5); max-width: 500px;">Antes de escribirnos, probablemente tu pregunta ya tiene respuesta aquí.</p>
+        </div>
+        <div class="faq-container">
+            <details class="faq-item reveal">
+                <summary>¿Es seguro? ¿Me pueden banear la cuenta de Meta?</summary>
+                <div class="faq-content">
+                    <p>Es <strong>100% seguro</strong>. Nuestro método de instalación no altera el firmware de tu visor ni rompe las reglas de seguridad de hardware de Meta. El riesgo de baneo es inexistente y podrás seguir usando tu cuenta oficial normalmente.</p>
+                </div>
+            </details>
+            <details class="faq-item reveal delay-100">
+                <summary>¿Necesito una PC Gamer para poder jugar?</summary>
+                <div class="faq-content">
+                    <p><strong>No necesitas PC.</strong> Todos los juegos de nuestro catálogo se instalan y ejecutan de forma nativa en tu propio visor (Modo Standalone). Solo te pones las gafas y a jugar en cualquier parte.</p>
+                </div>
+            </details>
+            <details class="faq-item reveal delay-200">
+                <summary>¿Pierdo la garantía oficial de mi visor al instalar esto?</summary>
+                <div class="faq-content">
+                    <p><strong>Para nada.</strong> Tu visor mantiene su garantía de fábrica intacta. No realizamos "jailbreaks" peligrosos, no lo destapamos físicamente ni hacemos modificaciones permanentes al sistema operativo de Meta.</p>
+                </div>
+            </details>
+            <details class="faq-item reveal delay-300">
+                <summary>¿El pago incluye algún tipo de soporte técnico?</summary>
+                <div class="faq-content">
+                    <p><strong>Sí.</strong> Tu inversión única incluye soporte técnico de nuestro equipo para asegurar que todo el proceso inicial quede configurado y funcionando a la perfección.</p>
+                </div>
+            </details>
+        </div>
+    </section>
+
+    <!-- Section Divider -->
+    <div class="section-divider"></div>
+
+    <!-- Requirements -->
+    <section class="section container" id="requisitos">
+        <div class="reveal" style="margin-bottom: 4rem;">
+            <span class="eyebrow">[ REQUISITOS ]</span>
+            <h2 style="font-size: clamp(2rem, 5vw, 3rem); margin-bottom: 1rem;">Solo necesitas 3 cosas</h2>
+            <p style="color: rgba(255,255,255,0.5); max-width: 500px;">El proceso es guiado paso a paso. Esto es lo mínimo que necesitas tener en casa.</p>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-bottom: 6rem;">
+            <div class="hover-glow reveal delay-100" style="background: rgba(255,255,255,0.02); padding: 2rem; border-radius: 1.5rem; border: 1px solid rgba(255,255,255,0.05); text-align: left; transition: background 0.3s ease, transform 0.3s ease;">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--accent-cyan)" stroke-width="1.5" style="margin-bottom: 1.25rem;"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+                <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem; color: #FFF;">PC o Laptop</h3>
+                <p style="color: rgba(255,255,255,0.5); font-size: 0.9rem; line-height: 1.6;">Solo para la conexión inicial. Windows 10/11. No necesita ser gamer.</p>
+            </div>
+            <div class="hover-glow reveal delay-200" style="background: rgba(255,255,255,0.02); padding: 2rem; border-radius: 1.5rem; border: 1px solid rgba(255,255,255,0.05); text-align: left; transition: background 0.3s ease, transform 0.3s ease;">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--accent-purple)" stroke-width="1.5" style="margin-bottom: 1.25rem;"><path d="M12 2v6l3-3"/><path d="M12 2v6l-3-3"/><rect x="5" y="10" width="14" height="10" rx="2"/></svg>
+                <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem; color: #FFF;">Cable USB-C</h3>
+                <p style="color: rgba(255,255,255,0.5); font-size: 0.9rem; line-height: 1.6;">El mismo cable de carga de tu visor. Solo necesita transferir datos.</p>
+            </div>
+            <div class="hover-glow reveal delay-300" style="background: rgba(255,255,255,0.02); padding: 2rem; border-radius: 1.5rem; border: 1px solid rgba(255,255,255,0.05); text-align: left; transition: background 0.3s ease, transform 0.3s ease;">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#FFF" stroke-width="1.5" style="margin-bottom: 1.25rem;"><path d="M5 12.55a11 11 0 0 1 14.08 0"/><path d="M1.42 9a16 16 0 0 1 21.16 0"/><path d="M8.53 16.11a6 6 0 0 1 6.95 0"/><circle cx="12" cy="20" r="1"/></svg>
+                <h3 style="font-size: 1.25rem; margin-bottom: 0.5rem; color: #FFF;">Wi-Fi estable</h3>
+                <p style="color: rgba(255,255,255,0.5); font-size: 0.9rem; line-height: 1.6;">Para descargar los juegos. Recomendamos 5GHz para mayor velocidad.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Compatibility & Trust Badge -->
+    <section class="section container reveal">
+        <div class="glass-panel-outer" style="background: linear-gradient(135deg, rgba(20,20,20,0.8), rgba(0,255,255,0.05));">
+            <div class="glass-panel-inner" style="padding: clamp(2rem, 5vw, 4rem) clamp(1.5rem, 3vw, 2rem); text-align: center;">
+                <h2 style="font-size: clamp(1.5rem, 4vw, 2.5rem); margin-bottom: 2rem;">Hardware 100% Compatible</h2>
+                <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 4rem;">
+                    <div class="compat-badge">Meta Quest 1</div>
+                    <div class="compat-badge">Meta Quest 2</div>
+                    <div class="compat-badge">Meta Quest 3 / 3S</div>
+                    <div class="compat-badge">Meta Quest Pro</div>
+                </div>
+                
+                <div style="max-width: 600px; margin: 0 auto; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.1); padding: clamp(1.5rem, 4vw, 2.5rem); border-radius: 1.5rem;">
+                    <div style="width: 4rem; height: 4rem; background: var(--accent-purple); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; box-shadow: 0 0 20px rgba(138,43,226,0.4);">
+                        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                    </div>
+                    <h3 style="font-size: 1.5rem; margin-bottom: 1rem;">Instalación Garantizada</h3>
+                    <p style="color: var(--text-secondary); font-size: 0.95rem; line-height: 1.6;">Si por alguna razón técnica demostrable tu visor no es compatible con la instalación de nuestro catálogo tras nuestro soporte, te devolvemos tu dinero al instante. Sin preguntas. Cero riesgos para ti.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="section container" id="contacto" style="text-align: center; padding-bottom: 10rem;">
+        <div class="reveal">
+            <h2 style="font-size: clamp(2.5rem, 8vw, 4rem); margin-bottom: 1rem; line-height: 1.1;">¿Listo para jugar?</h2>
+            <p style="color: rgba(255,255,255,0.5); max-width: 450px; margin: 0 auto 2.5rem; font-size: 1.1rem;">Reserva tu cupo ahora y empieza a disfrutar de miles de títulos desde hoy mismo.</p>
+            <a href="https://wa.link/kfzofc" class="btn group cta-delight" id="final-cta" target="_blank">
+                <span class="cta-text">Escríbenos por WhatsApp</span>
+                <div class="icon-wrapper">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/>
+                    </svg>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer style="border-top: 1px solid rgba(255,255,255,0.05); padding: 4rem 2rem; margin-top: 4rem; text-align: center; background: rgba(0,0,0,0.5);">
+        <div class="container">
+            <h4 style="font-family: var(--font-heading); font-size: 1.5rem; letter-spacing: 0.05em; color: #FFF; margin-bottom: 1rem;">OCULUS MASTERS</h4>
+            <p style="color: var(--text-secondary); font-size: 0.85rem; max-width: 700px; margin: 0 auto 2rem; line-height: 1.6;">
+                Descargo de Responsabilidad: Oculus Masters no tiene afiliación, patrocinio ni relación oficial con Meta Platforms Inc. Meta Quest, Oculus y sus respectivos logotipos son marcas registradas de Meta Platforms Inc. Nuestro servicio se limita exclusivamente a soporte técnico, configuración e instalación de software por encargo.
+            </p>
+            <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem; flex-wrap: wrap;">
+                <a href="#" style="color: var(--accent-cyan); text-decoration: none; font-size: 0.875rem; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">Términos y Condiciones</a>
+                <a href="#" style="color: var(--accent-cyan); text-decoration: none; font-size: 0.875rem; transition: opacity 0.3s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">Políticas de Privacidad</a>
+            </div>
+            <p style="color: rgba(255,255,255,0.2); font-size: 0.75rem;">&copy; 2025 Oculus Masters Colombia. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
