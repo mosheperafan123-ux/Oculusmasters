@@ -41032,7 +41032,7 @@
                                           ],
 
 
-                       "AcciÃ³n y Disparos":  [
+                       "Acción y Disparos":  [
 
 
                                                   {
@@ -41050,7 +41050,7 @@
                                                       "package":  "com.ZynkSoftware.SecondsMatter",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  0
@@ -41074,7 +41074,7 @@
                                                       "package":  "com.incitevr.activeshooter",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41098,7 +41098,7 @@
                                                       "package":  "com.EstiSoft.AimBounce",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41122,7 +41122,7 @@
                                                       "package":  "com.DIVR.AimAssault",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -41146,7 +41146,7 @@
                                                       "package":  "com.IcedArtisan.AimTrainer",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41170,7 +41170,7 @@
                                                       "package":  "app.pinbit.aimvr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41194,7 +41194,7 @@
                                                       "package":  "com.FrogandSkull.ArtofCombatDemo",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41218,7 +41218,7 @@
                                                       "package":  "com.FrogandSkull.ArtofCombat",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41242,7 +41242,7 @@
                                                       "package":  "com.mrf.AMSoftware.AstrosAce",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41266,7 +41266,7 @@
                                                       "package":  "com.BarebowArchery.Project",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41290,7 +41290,7 @@
                                                       "package":  "com.bjtu.badmintonSim",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41314,7 +41314,7 @@
                                                       "package":  "com.bobw.balloon.appovr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41338,7 +41338,7 @@
                                                       "package":  "com.lebersoftware.bangsquashpro",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41362,7 +41362,7 @@
                                                       "package":  "com.stalwart.barbaria",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41386,7 +41386,7 @@
                                                       "package":  "com.DreamTeamMobile.BattleArenaVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41410,7 +41410,7 @@
                                                       "package":  "com.wimogames.BOW",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41434,7 +41434,7 @@
                                                       "package":  "com.GVL.ProjectCarFight",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41458,7 +41458,7 @@
                                                       "package":  "com.CyDream.BattleTalent",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -41482,7 +41482,7 @@
                                                       "package":  "com.mrf.CyDream.BattleTalent",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -41506,7 +41506,7 @@
                                                       "package":  "com.lmstudio.game.vr.war.mission.talent",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41530,7 +41530,7 @@
                                                       "package":  "com.mrf.cgartefacts.Battlebots",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41554,7 +41554,7 @@
                                                       "package":  "pro.vrfactory.militarymuseum",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -41578,7 +41578,7 @@
                                                       "package":  "com.GhostlyBirdGames.BattleGlide",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41602,7 +41602,7 @@
                                                       "package":  "com.SpaceOwlGames.BattleGroupVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41626,7 +41626,7 @@
                                                       "package":  "com.FunIT.BattleOnTop_release",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41650,7 +41650,7 @@
                                                       "package":  "com.AnomosStudios.BionicHunterTheAncientSword",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41674,7 +41674,7 @@
                                                       "package":  "com.Warpfrog.BladeAndSorcery",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -41698,7 +41698,7 @@
                                                       "package":  "com.Warpfrog.BladeAndSorcery",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -41722,7 +41722,7 @@
                                                       "package":  "com.Warpfrog.BladeAndSorcery",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -41746,7 +41746,7 @@
                                                       "package":  "com.MagicProStudio.BodycamUnrecordShooter",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41770,7 +41770,7 @@
                                                       "package":  "com.studiohaimi.pong",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -41794,7 +41794,7 @@
                                                       "package":  "hu.phonesoftware.badr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41818,7 +41818,7 @@
                                                       "package":  "at.amapps.masterrunshoot",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41842,7 +41842,7 @@
                                                       "package":  "com.IonicOptimists.ChessBattle",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -41866,7 +41866,7 @@
                                                       "package":  "com.greensky.chronostrike",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41890,7 +41890,7 @@
                                                       "package":  "com.shotgungaming.clayhuntvr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41914,7 +41914,7 @@
                                                       "package":  "com.forcefieldxr.coastercombatquest",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41938,7 +41938,7 @@
                                                       "package":  "com.HyperGamey.CopterStrikeVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41962,7 +41962,7 @@
                                                       "package":  "com.lvonasek.csvr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -41986,7 +41986,7 @@
                                                       "package":  "com.CS.CyberGun",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42010,7 +42010,7 @@
                                                       "package":  "com.DefaultCompany.Cyberblade",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42034,7 +42034,7 @@
                                                       "package":  "com.com2usroca.Darksword",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -42058,7 +42058,7 @@
                                                       "package":  "com.eVInteractive.AirCombatPilotDawnofJets",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42082,7 +42082,7 @@
                                                       "package":  "com.MyronSoftware.Deisim",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42106,7 +42106,7 @@
                                                       "package":  "com.resolutiongames.demeopvp",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42130,7 +42130,7 @@
                                                       "package":  "com.mrf.resolutiongames.demeopvp",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -42154,7 +42154,7 @@
                                                       "package":  "com.resolutiongames.jade",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -42178,7 +42178,7 @@
                                                       "package":  "com.forwardxp.DressUp_DanceOff",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42202,7 +42202,7 @@
                                                       "package":  "com.IvanovichGames.EchoWarsEp1",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42226,7 +42226,7 @@
                                                       "package":  "com.NodtechCreativeIndustries.EraofCombatBoxing",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42250,7 +42250,7 @@
                                                       "package":  "com.TotosGames.EternalStrike",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42274,7 +42274,7 @@
                                                       "package":  "com.CDSHT.FantasyWar",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42298,7 +42298,7 @@
                                                       "package":  "com.GIANTSSoftware.FarmingSimulatorVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -42322,7 +42322,7 @@
                                                       "package":  "com.MWUSoftware.FetalHeartVR2021",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42346,7 +42346,7 @@
                                                       "package":  "com.LatencyVoid.FingerGunVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42370,7 +42370,7 @@
                                                       "package":  "com.squathero.squathero",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42394,7 +42394,7 @@
                                                       "package":  "com.mrf.squathero.squathero",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42418,7 +42418,7 @@
                                                       "package":  "com.skippy.flyvrx.fighter.jet.quest",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42442,7 +42442,7 @@
                                                       "package":  "com.skippy.flyvrx.heli.attack",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42466,7 +42466,7 @@
                                                       "package":  "com.skippy.flyvrx.quest.scifi.jet",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42490,7 +42490,7 @@
                                                       "package":  "com.rollingj.fullchoke",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42514,7 +42514,7 @@
                                                       "package":  "com.GAIM.GAIM_RANGE_OS",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42538,7 +42538,7 @@
                                                       "package":  "com.m80games.GalactigunVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42562,7 +42562,7 @@
                                                       "package":  "com.JustJamesGames.GangWarfare",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42586,7 +42586,7 @@
                                                       "package":  "com.Holonext.GladiatorBattleMixedRealityFight",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42610,7 +42610,7 @@
                                                       "package":  "com.bossmusicgames.godofriffs",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42634,7 +42634,7 @@
                                                       "package":  "com.mrf.SinnStudio.Swordsman_MR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -42658,7 +42658,7 @@
                                                       "package":  "com.nextgenreality.GunClubVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -42682,7 +42682,7 @@
                                                       "package":  "com.epicgames.gunjam",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42706,7 +42706,7 @@
                                                       "package":  "com.TugArt.Canakkale",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42730,7 +42730,7 @@
                                                       "package":  "com.AnthonyStudios.GunWorldVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -42754,7 +42754,7 @@
                                                       "package":  "com.irusu.gunsmith",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42778,7 +42778,7 @@
                                                       "package":  "com.Skout.Gunfight",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42802,7 +42802,7 @@
                                                       "package":  "com.phanotek.wingsofduty",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42826,7 +42826,7 @@
                                                       "package":  "com.MiroWin.OMT",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -42850,7 +42850,7 @@
                                                       "package":  "net.demonixis.gunpinningvrz",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42874,7 +42874,7 @@
                                                       "package":  "xyz.muware.hunt.vr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -42898,7 +42898,7 @@
                                                       "package":  "com.Something.Random.Harpagun",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -42922,7 +42922,7 @@
                                                       "package":  "com.BruteForceSoftware.haymaker",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42946,7 +42946,7 @@
                                                       "package":  "com.DefaultCompany.RPGXR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42970,7 +42970,7 @@
                                                       "package":  "com.iz.fire.fighter.rescue.simulator",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -42994,7 +42994,7 @@
                                                       "package":  "de.exystem.galacticescape",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43018,7 +43018,7 @@
                                                       "package":  "com.lmstudio.game.air.combat.iron.wings",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43042,7 +43042,7 @@
                                                       "package":  "com.emcneill.ironstrike",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -43066,7 +43066,7 @@
                                                       "package":  "com.twolivesleft.kbs",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43090,7 +43090,7 @@
                                                       "package":  "com.chesstar.KingdomOfBlades.itch",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43114,7 +43114,7 @@
                                                       "package":  "com.RealverseVr.LagazuoiEchoesoftheGreatWar",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43138,7 +43138,7 @@
                                                       "package":  "com.odders.shapeit",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -43162,7 +43162,7 @@
                                                       "package":  "com.mrf.odders.shapeit",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -43186,7 +43186,7 @@
                                                       "package":  "com.initiumStudio.LordSword",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -43210,7 +43210,7 @@
                                                       "package":  "com.leafboatstudio.magicpuzzle",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43234,7 +43234,7 @@
                                                       "package":  "com.SACL.MineAwareVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43258,7 +43258,7 @@
                                                       "package":  "com.Astrea.Gundam",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -43282,7 +43282,7 @@
                                                       "package":  "com.mrf.Astrea.Gundam",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -43306,7 +43306,7 @@
                                                       "package":  "com.terribleposture.MGSVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43330,7 +43330,7 @@
                                                       "package":  "com.EgerterSoftware.MovieDeckforPlex",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43354,7 +43354,7 @@
                                                       "package":  "com.HetAmsterdamsFilmbedrijf.MurchisonFallsAWildlifeA",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  0
@@ -43378,7 +43378,7 @@
                                                       "package":  "com.DigitalDust.vr1",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43402,7 +43402,7 @@
                                                       "package":  "com.mydearest.sasukevr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43426,7 +43426,7 @@
                                                       "package":  "app.warcrown.oathbreakers",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43450,7 +43450,7 @@
                                                       "package":  "com.venus.games.omawar",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43474,7 +43474,7 @@
                                                       "package":  "com.UnwiseStudio.DiggyHole",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43498,7 +43498,7 @@
                                                       "package":  "com.downpourinteractive.onward",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -43522,7 +43522,7 @@
                                                       "package":  "com.ivanovichgames.operationwarcade",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43546,7 +43546,7 @@
                                                       "package":  "com.TeravisionGames.OrcsMustDie",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -43570,7 +43570,7 @@
                                                       "package":  "com.twistedpixelgames.POTW_App",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43594,7 +43594,7 @@
                                                       "package":  "com.GearboxSoftware.Hawthorn",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43618,7 +43618,7 @@
                                                       "package":  "com.SimulatedMinds.PandoraSandbox",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -43642,7 +43642,7 @@
                                                       "package":  "com.ForwardXP.nuke",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43666,7 +43666,7 @@
                                                       "package":  "com.forwardxp.PDTAMR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43690,7 +43690,7 @@
                                                       "package":  "com.mrf.forwardxp.PDTAMR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43714,7 +43714,7 @@
                                                       "package":  "com.vrwood.powerforce",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43738,7 +43738,7 @@
                                                       "package":  "com.OlydreamLabs.ProShooterVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43762,7 +43762,7 @@
                                                       "package":  "jp.univrs.rush.takai",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43786,7 +43786,7 @@
                                                       "package":  "com.blendedxr.quantumstrike",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43810,7 +43810,7 @@
                                                       "package":  "com.mrf.blendedxr.quantumstrike",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -43834,7 +43834,7 @@
                                                       "package":  "com.eyemobi.quantumwarfare",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43858,7 +43858,7 @@
                                                       "package":  "com.imagofx.railgunVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43882,7 +43882,7 @@
                                                       "package":  "com.motorcitycodefactory.readyaimdodge",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -43906,7 +43906,7 @@
                                                       "package":  "com.BurntTomato.RillaShotgun",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -43930,7 +43930,7 @@
                                                       "package":  "com.CacaoZOO.RobotsWars",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43954,7 +43954,7 @@
                                                       "package":  "com.atomicrealm.shipbattles",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -43978,7 +43978,7 @@
                                                       "package":  "com.HomeNetGames.ShogunVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44002,7 +44002,7 @@
                                                       "package":  "com.OleksandrMartysh.ShoottheRobotsVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44026,7 +44026,7 @@
                                                       "package":  "pl.idreams.zombirds",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44050,7 +44050,7 @@
                                                       "package":  "com.Questeroid.Shooter360",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44074,7 +44074,7 @@
                                                       "package":  "com.SeminautGameStudios.ShootersIsland",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44098,7 +44098,7 @@
                                                       "package":  "com.northironstudios.ShootingPractice",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44122,7 +44122,7 @@
                                                       "package":  "com.NoFlinch.ShootingTherapy",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44146,7 +44146,7 @@
                                                       "package":  "com.palvesoft.ShoottrisQuest",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44170,7 +44170,7 @@
                                                       "package":  "com.ndreams.shootyfruity",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44194,7 +44194,7 @@
                                                       "package":  "com.mightygamesgroup.shootyvr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44218,7 +44218,7 @@
                                                       "package":  "com.BreakingStudio.ShotgunSports",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44242,7 +44242,7 @@
                                                       "package":  "com.initialfstudio.blitz",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44266,7 +44266,7 @@
                                                       "package":  "com.unity.slapfightervr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44290,7 +44290,7 @@
                                                       "package":  "com.warducks.sneakybearsrc",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44314,7 +44314,7 @@
                                                       "package":  "com.JustAddWater.SniperEliteVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44338,7 +44338,7 @@
                                                       "package":  "com.JustAddWater.SniperEliteVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44362,7 +44362,7 @@
                                                       "package":  "com.JustAddWater.SniperEliteVR_EN",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44386,7 +44386,7 @@
                                                       "package":  "com.vr.sniper.shooting.gun.game",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44410,7 +44410,7 @@
                                                       "package":  "com.actumgames.snowwars",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44434,7 +44434,7 @@
                                                       "package":  "vr.tgs.spaceshooter",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44458,7 +44458,7 @@
                                                       "package":  "com.TangoChen.SpatialWebShooterQuest",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44482,7 +44482,7 @@
                                                       "package":  "com.CrystalApps.PuzzleMatch",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44506,7 +44506,7 @@
                                                       "package":  "com.cosmolab.srpg001",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44530,7 +44530,7 @@
                                                       "package":  "com.YourCompany.SWP_VR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44554,7 +44554,7 @@
                                                       "package":  "com.ilm.beyondvictory",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -44578,7 +44578,7 @@
                                                       "package":  "com.ilmxlab.tales",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -44602,7 +44602,7 @@
                                                       "package":  "com.FulTech.StarfighterArduximQuest",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44626,7 +44626,7 @@
                                                       "package":  "com.owlstudioGames.StreetFightersVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44650,7 +44650,7 @@
                                                       "package":  "com.brayang.strikebackvr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -44674,7 +44674,7 @@
                                                       "package":  "ws.wewe.td",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44698,7 +44698,7 @@
                                                       "package":  "com.skonec.strikerush.quest",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44722,7 +44722,7 @@
                                                       "package":  "com.AvantajPrim.JollyBattleSugarMash",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44746,7 +44746,7 @@
                                                       "package":  "com.LanogaGameStudio.SuperGunArena",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44770,7 +44770,7 @@
                                                       "package":  "com.sketchbox.Grapple",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44794,7 +44794,7 @@
                                                       "package":  "com.greensky.swarm2",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44818,7 +44818,7 @@
                                                       "package":  "com.state.conquer.puzzle.strategy",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44842,7 +44842,7 @@
                                                       "package":  "com.IsekaiEntertainmentLLC.SwordReverie",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44866,7 +44866,7 @@
                                                       "package":  "co.yomune.gargantua",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44890,7 +44890,7 @@
                                                       "package":  "com.SinnStudio.Medieval",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -44914,7 +44914,7 @@
                                                       "package":  "com.OB.SwordTrip",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -44938,7 +44938,7 @@
                                                       "package":  "com.TwistedBarrelGames.TacticalAssaultVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -44962,7 +44962,7 @@
                                                       "package":  "com.WeirdEyeStudios.TakeAim",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -44986,7 +44986,7 @@
                                                       "package":  "com.thunder.gladiator.fighting.game",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45010,7 +45010,7 @@
                                                       "package":  "com.bigsugar.tigerblade",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -45034,7 +45034,7 @@
                                                       "package":  "hu.phonesoftware.toetotoepartygames",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45058,7 +45058,7 @@
                                                       "package":  "com.PeopleCanFly.Bison",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -45082,7 +45082,7 @@
                                                       "package":  "com.JohnRayGames.TrashGun",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45106,7 +45106,7 @@
                                                       "package":  "com.slaternation.DirectImpact",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45130,7 +45130,7 @@
                                                       "package":  "com.TwinSoftwareStudio.TruckParkingSimulatorVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45154,7 +45154,7 @@
                                                       "package":  "com.MyronSoftware.UnderworldOverseer",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45178,7 +45178,7 @@
                                                       "package":  "com.SPSoftwareProductions.UnlimitedBowlingVR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45202,7 +45202,7 @@
                                                       "package":  "com.SPSoftwareProductions.UnlimitedSnooker",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45226,7 +45226,7 @@
                                                       "package":  "com.washingup.VekWars",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45250,7 +45250,7 @@
                                                       "package":  "com.guildsoftware.vendettaquestvr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45274,7 +45274,7 @@
                                                       "package":  "com.iottech.VirtualSniper",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45298,7 +45298,7 @@
                                                       "package":  "com.NPSoftware.VisitMadeira",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -45322,7 +45322,7 @@
                                                       "package":  "com.aim.vraimtrainer",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45346,7 +45346,7 @@
                                                       "package":  "hit.nullcityrts.ovrbatleofbattleship",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45370,7 +45370,7 @@
                                                       "package":  "com.lmgames.ocqst.vr.bottle.shoot",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45394,7 +45394,7 @@
                                                       "package":  "com.vr.commando.arcade.shooting.games",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45418,7 +45418,7 @@
                                                       "package":  "com.blobworks.VRPracticalShooting",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45442,7 +45442,7 @@
                                                       "package":  "com.AloneTeam.VRSKY_FighterJets",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45466,7 +45466,7 @@
                                                       "package":  "com.MiraiMadaGames.WSS",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45490,7 +45490,7 @@
                                                       "package":  "com.arcanemiracle.warofwizards",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45514,7 +45514,7 @@
                                                       "package":  "com.DefectivePenguinGames.Warchasm_OQ",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45538,7 +45538,7 @@
                                                       "package":  "com.raptorlab.warduststorm",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45562,7 +45562,7 @@
                                                       "package":  "com.Moolion.WardwellHouse",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45586,7 +45586,7 @@
                                                       "package":  "com.PixelToys.BattleSisters",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -45610,7 +45610,7 @@
                                                       "package":  "com.CarbonStudio.Tempestfall",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -45634,7 +45634,7 @@
                                                       "package":  "com.EVR.WarlikeSpace",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45658,7 +45658,7 @@
                                                       "package":  "com.pixelframers.warplabmr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45682,7 +45682,7 @@
                                                       "package":  "com.mrf.pixelframers.warplabmr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  9.99
@@ -45706,7 +45706,7 @@
                                                       "package":  "com.HomeNetGames.Warplanes3VR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  29.99
@@ -45730,7 +45730,7 @@
                                                       "package":  "com.HomeNetGames.WW2VR",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45754,7 +45754,7 @@
                                                       "package":  "com.HomeNetGames.WW1oculus",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45778,7 +45778,7 @@
                                                       "package":  "com.EnemyTeam.Webshooters",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45802,7 +45802,7 @@
                                                       "package":  "com.STOICEnt.WWT",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -45826,7 +45826,7 @@
                                                       "package":  "co.spl.wwz_vr",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  39.99
@@ -45850,7 +45850,7 @@
                                                       "package":  "com.NiVision.XFighter",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45874,7 +45874,7 @@
                                                       "package":  "com.ULTRAFUNGAMES.XRULTRAPHYSICSSANDBOX2",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45898,7 +45898,7 @@
                                                       "package":  "com.deepwelldtx.FlojoFinal",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  19.99
@@ -45922,7 +45922,7 @@
                                                       "package":  "com.BeijingUni.Zong",
 
 
-                                                      "category":  "AcciÃ³n y Disparos",
+                                                      "category":  "Acción y Disparos",
 
 
                                                       "estimated_price_usd":  14.99
@@ -65617,7 +65617,7 @@
                                     "package":  "com.Warpfrog.BladeAndSorcery",
 
 
-                                    "category":  "AcciÃ³n y Disparos",
+                                    "category":  "Acción y Disparos",
 
 
                                     "estimated_price_usd":  39.99
@@ -65977,7 +65977,7 @@
                                     "package":  "com.downpourinteractive.onward",
 
 
-                                    "category":  "AcciÃ³n y Disparos",
+                                    "category":  "Acción y Disparos",
 
 
                                     "estimated_price_usd":  39.99
@@ -66193,7 +66193,7 @@
                                     "package":  "com.resolutiongames.demeopvp",
 
 
-                                    "category":  "AcciÃ³n y Disparos",
+                                    "category":  "Acción y Disparos",
 
 
                                     "estimated_price_usd":  9.99
