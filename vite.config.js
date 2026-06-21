@@ -3,6 +3,7 @@ import { defineConfig } from 'vite';
 
 // Multi-page (MPA) build: landing + páginas legales.
 export default defineConfig({
+  base: './',
   root: '.',
   publicDir: 'public',
   build: {
