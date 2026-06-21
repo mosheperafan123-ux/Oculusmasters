@@ -49,7 +49,7 @@ export async function initCatalog() {
 
   let data;
   try {
-    const res = await fetch('/data/catalog.json');
+    const res = await fetch(import.meta.env.BASE_URL + 'data/catalog.json');
     data = await res.json();
   } catch {
     list.innerHTML = '<p class="muted">No se pudo cargar el catálogo.</p>';
