@@ -1,5 +1,5 @@
-.agents/
-.git/
-skills-lock.json
-catalogo_vr_resumen.json
-convert.ps1
+node_modules
+dist
+.DS_Store
+*.local
+.vite

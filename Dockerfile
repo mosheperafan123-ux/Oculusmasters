@@ -1,10 +1,12 @@
+# Build stage
+FROM node:18-alpine AS builder
+WORKDIR /app
+COPY package*.json ./
+RUN npm ci
+COPY . .
+RUN npm run build
+
+# Production stage
 FROM nginx:alpine
-
-# Copy all files from the current directory to the nginx html directory
-COPY . /usr/share/nginx/html
-
-# Expose port 80
+COPY --from=builder /app/dist /usr/share/nginx/html
 EXPOSE 80
-
-# The default command of the nginx:alpine image starts the nginx server,
-# so we don't need to specify a CMD here.
